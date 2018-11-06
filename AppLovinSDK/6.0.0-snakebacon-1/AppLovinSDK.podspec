@@ -23,8 +23,8 @@ LICENSE
 
 s.source = 
 { 
-  :git => 'https://github.com/AppLovin/AppLovin-iOS-Mediated-SDKs.git',
-  :tag => '6.0.0-snakebacon-1',
+  :git => 'https://github.com/AppLovin/Public-Cocoapods-Hosted-SDKs.git',
+  :tag => '6.0.0-snakebacon-1'
 }
 s.vendored_frameworks = 'AppLovinSDK/snakebacon/1/AppLovinSDK.framework'
 s.module_map = 'AppLovinSDK/snakebacon/1/AppLovinSDK.framework/Modules/module.modulemap'
