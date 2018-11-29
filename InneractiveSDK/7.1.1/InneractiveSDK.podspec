@@ -5,7 +5,7 @@ s.name = 'InneractiveSDK'
 s.version = '7.1.1'
 s.platform = :ios
 s.ios.deployment_target = '8.0'
-s.summary = 'Fyber VAMP - Video Advertising Monetization Platform for iOS devices'
+s.summary = 'Inneractive iOS SDK. Fyber VAMP - Video Advertising Monetization Platform for iOS devices'
 s.homepage = 'http://developer.inner-active.com/v1.0/docs'
 s.license = { :type => 'Copyright', :text => 'Copyright 2018 Fyber, All rights reserved.' }
 s.source = 
@@ -15,7 +15,10 @@ s.source =
 	:sha256 => '7b566d0e7bfaff8ace24086380d774b10980cf3811434996473defba5b4e8d1f'
 }
 s.description = <<-DESC
-        Fyber VAMP SDK
+    Fyber is a global technology company, 
+    developing a next generation platform 
+    for the programmatic trading of mobile 
+   	video ads in a data-driven environment.
 DESC
 
 s.frameworks = 'SystemConfiguration', 'CoreGraphics', 'EventKit', 'EventKitUI', 'MediaPlayer', 'MessageUI', 'CoreTelephony', 'StoreKit', 'AdSupport', 'AVFoundation', 'CoreMedia', 'WebKit'
