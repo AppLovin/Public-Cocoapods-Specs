@@ -12,7 +12,7 @@ s.source =
 { 
     :http => 'https://bintray.com/applovin/iOS-Adapter-SDKs/download_file?file_path=InneractiveSDK-7.1.1.zip',
   	:type => 'zip',
-	:sha256 => '7b566d0e7bfaff8ace24086380d774b10980cf3811434996473defba5b4e8d1f'
+	:sha256 => '2351c66d117fad4bd90dc437f7c4890827a44e7a049590c35acc324331e49d5f'
 }
 s.description = <<-DESC
     Fyber is a global technology company, 
