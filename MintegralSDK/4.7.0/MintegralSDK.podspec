@@ -12,7 +12,7 @@ s.source =
 { 
     :http => 'https://bintray.com/applovin/iOS-Adapter-SDKs/download_file?file_path=MintegralSDK-4.7.0.zip',
   	:type => 'zip',
-	:sha256 => 'b69188ce4cc436b0d27312b81acb4864d14b618be68b3c3dfeb2edd57b0f9332'
+	:sha256 => '78f3751032c42f50855c117a43d3800ead6451a73ba0a6206cebaa4723e189cf'
 }
 s.description = <<-DESC
 	Mintegral is a leading programmatic advertising
@@ -25,6 +25,6 @@ DESC
 s.frameworks = 'CoreGraphics', 'Foundation', 'UIKit', 'AdSupport', 'StoreKit', 'QuartzCore', 'CoreLocation', 'CoreTelephony', 'MobileCoreServices', 'Accelerate', 'AVFoundation', 'WebKit'
 s.library = 'sqlite3', 'z'
 
-s.vendored_frameworks = 'MintegralSDK-4.7.0/MTGSDK/MTGSDK.framework', 'MintegralSDK-4.7.0/MTGSDKInterstitialVideo/MTGSDKInterstitialVideo.framework', 'MintegralSDK-4.7.0/MTGSDKReward/MTGSDKReward.framework'
+s.vendored_frameworks = 'MintegralSDK-4.7.0/MTGSDK.framework', 'MintegralSDK-4.7.0/MTGSDKInterstitialVideo.framework', 'MintegralSDK-4.7.0/MTGSDKReward.framework', 'MintegralSDK-4.7.0/MTGSDKAppWall.framework', 'MintegralSDK-4.7.0/MTGSDKInterActive.framework', 'MintegralSDK-4.7.0/MTGSDKInterstitial.framework', 'MintegralSDK-4.7.0/MTGSDKOfferWall.framework'
 
 end
