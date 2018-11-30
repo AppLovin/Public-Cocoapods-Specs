@@ -25,7 +25,7 @@ s.source =
 { 
   :http => 'https://bintray.com/applovin/iOS-Adapters/download_file?file_path=AppLovinMediationVungleAdapter-6.3.2.0.zip',
   :type => 'zip',
-  :sha256 => '42b679a8d0fdbb95bb039b8d253364e28cd8978c8873219f7978a56403b1df2f'
+  :sha256 => '53c97221d1416e2a6568c5123799aea20e0a28467547372fc3fd62819a8ad68d'
 }
 
 s.vendored_frameworks = 'AppLovinMediationVungleAdapter-6.3.2.0/AppLovinMediationVungleAdapter.framework'
