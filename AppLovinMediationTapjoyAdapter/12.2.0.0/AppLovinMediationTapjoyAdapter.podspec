@@ -31,6 +31,7 @@ s.source =
 s.vendored_frameworks = 'AppLovinMediationTapjoyAdapter-12.2.0.0/AppLovinMediationTapjoyAdapter.framework'
 
 s.dependency 'TapjoySDK', '= 12.2.0'
+s.dependency 'AppLovinSDK', '>= 6.1.0'
 
 s.frameworks = 'Security', 'CoreData', 'CFNetwork', 'CoreGraphics', 'CoreLocation', 'CoreMotion', 'EventKitUI', 'EventKit', 'Foundation', 'MapKit', 'MediaPlayer', 'MessageUI', 'MobileCoreServices', 'QuartzCore', 'SystemConfiguration', 'UIKit'
 s.weak_frameworks = 'AdSupport', 'CoreTelephony', 'Social', 'StoreKit', 'Twitter'

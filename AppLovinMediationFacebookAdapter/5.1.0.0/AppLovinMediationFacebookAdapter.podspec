@@ -31,6 +31,7 @@ s.source =
 s.vendored_frameworks = 'AppLovinMediationFacebookAdapter-5.1.0.0/AppLovinMediationFacebookAdapter.framework'
 
 s.dependency 'FBAudienceNetwork', '= 5.1.0'
+s.dependency 'AppLovinSDK', '>= 6.1.0'
 
 s.frameworks = 'AudioToolbox', 'StoreKit', 'CoreGraphics', 'UIKit', 'Foundation', 'Security', 'CoreImage', 'AVFoundation', 'CoreMedia'
 s.weak_frameworks = 'AdSupport', 'CoreMotion', 'SafariServices', 'VideoToolbox', 'WebKit'

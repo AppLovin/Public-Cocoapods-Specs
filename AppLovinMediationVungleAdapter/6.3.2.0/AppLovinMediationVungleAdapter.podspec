@@ -31,6 +31,7 @@ s.source =
 s.vendored_frameworks = 'AppLovinMediationVungleAdapter-6.3.2.0/AppLovinMediationVungleAdapter.framework'
 
 s.dependency 'VungleSDK-iOS', '= 6.3.2.0'
+s.dependency 'AppLovinSDK', '>= 6.1.0'
 
 s.frameworks = 'AdSupport', 'AudioToolbox', 'AVFoundation', 'CFNetwork', 'CoreGraphics', 'CoreMedia', 'MediaPlayer', 'QuartzCore', 'StoreKit', 'SystemConfiguration'
 s.weak_frameworks = 'Foundation', 'UIKit', 'WebKit'

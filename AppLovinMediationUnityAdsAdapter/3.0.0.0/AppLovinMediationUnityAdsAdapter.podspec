@@ -31,6 +31,7 @@ s.source =
 s.vendored_frameworks = 'AppLovinMediationUnityAdsAdapter-3.0.0.0/AppLovinMediationUnityAdsAdapter.framework'
 
 s.dependency 'UnityAds', '= 3.0.0'
+s.dependency 'AppLovinSDK', '>= 6.1.0'
 
 s.description = <<-DESC
 

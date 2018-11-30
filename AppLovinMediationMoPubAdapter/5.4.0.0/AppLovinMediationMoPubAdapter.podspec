@@ -31,6 +31,7 @@ s.source =
 s.vendored_frameworks = 'AppLovinMediationMoPubAdapter-5.4.0.0/AppLovinMediationMoPubAdapter.framework'
 
 s.dependency 'mopub-ios-sdk', '= 5.4.0'
+s.dependency 'AppLovinSDK', '>= 6.1.0'
 
 s.frameworks = 'AVFoundation', 'CoreGraphics', 'CoreLocation', 'CoreMedia', 'CoreTelephony', 'Foundation', 'MediaPlayer', 'QuartzCore', 'SystemConfiguration', 'UIKit', 'SafariServices'
 s.weak_frameworks = 'AdSupport', 'StoreKit', 'WebKit'

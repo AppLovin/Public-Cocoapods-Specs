@@ -31,6 +31,7 @@ s.source =
 s.vendored_frameworks = 'AppLovinMediationAmazonAdapter-2.2.15.1.0/AppLovinMediationAmazonAdapter.framework'
 
 s.dependency 'AmazonAd', '= 2.2.15.1'
+s.dependency 'AppLovinSDK', '>= 6.1.0'
 
 s.frameworks = 'AdSupport', 'CoreLocation', 'SystemConfiguration', 'CoreTelephony', 'MediaPlayer', 'EventKit', 'EventKitUI', 'StoreKit', 'QuartzCore', 'SafariServices', 'JavaScriptCore'
 

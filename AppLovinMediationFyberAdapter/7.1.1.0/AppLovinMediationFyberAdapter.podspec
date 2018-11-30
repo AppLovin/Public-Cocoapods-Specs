@@ -31,6 +31,7 @@ s.source =
 s.vendored_frameworks = 'AppLovinMediationFyberAdapter-7.1.1.0/AppLovinMediationFyberAdapter.framework'
 
 s.dependency 'InneractiveSDK', '= 7.1.1'
+s.dependency 'AppLovinSDK', '>= 6.1.0'
 
 s.frameworks = 'SystemConfiguration', 'CoreGraphics', 'EventKit', 'EventKitUI', 'MediaPlayer', 'MessageUI', 'CoreTelephony', 'StoreKit', 'AdSupport', 'AVFoundation', 'CoreMedia', 'WebKit'
 s.library = 'xml2.2'
