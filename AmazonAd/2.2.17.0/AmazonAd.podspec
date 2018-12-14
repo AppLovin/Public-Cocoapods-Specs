@@ -5,7 +5,7 @@ s.authors =
 	'a9' => 'a9-pdp-dev@amazon.com',
 	'Dev Services' => 'devservices-mobile-sdk@amazon.com'
 }
-s.name = 'AmazonAdSDK'
+s.name = 'AmazonAd'
 s.version = '2.2.17.0'
 s.platform = :ios
 s.ios.deployment_target = '8.0'
