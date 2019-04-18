@@ -5,7 +5,7 @@ s.authors =
 	'AppLovin Corporation' => 'support@applovin.com'
 }
 s.name = 'AppLovinMediationFyberAdapter'
-s.version = '7.2.1.0'
+s.version = '7.2.1.1'
 s.platform = :ios, '9.0'
 s.summary = 'Fyber adapter used for mediation with the AppLovin MAX SDK'
 s.homepage = 'https://www.applovin.com/'
@@ -23,12 +23,12 @@ LICENSE
 
 s.source = 
 { 
-  :http => 'https://bintray.com/applovin/iOS-Adapters/download_file?file_path=AppLovinMediationFyberAdapter-7.2.1.0.zip',
+  :http => 'https://bintray.com/applovin/iOS-Adapters/download_file?file_path=AppLovinMediationFyberAdapter-7.2.1.1.zip',
   :type => 'zip',
-  :sha256 => 'c2abeb4e659bc983442ccf66bdd16f5733377bc77629223ba21d07fd73fcba48'
+  :sha256 => 'b187d52ef1a86a9023578431412a7194f7504363b496b18bc916f09b3d2f8f68'
 }
 
-s.vendored_frameworks = 'AppLovinMediationFyberAdapter-7.2.1.0/AppLovinMediationFyberAdapter.framework'
+s.vendored_frameworks = 'AppLovinMediationFyberAdapter-7.2.1.1/AppLovinMediationFyberAdapter.framework'
 
 s.dependency 'InneractiveSDK', '= 7.2.1'
 s.dependency 'AppLovinSDK', '>= 6.1.0'
