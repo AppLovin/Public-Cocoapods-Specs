@@ -25,7 +25,7 @@ s.source =
 { 
   :http => 'https://bintray.com/applovin/iOS-Adapters/download_file?file_path=AppLovinMediationMintegralAdapter-5.3.2.2.zip',
   :type => 'zip',
-  :sha256 => 'a5cdb0aaad437edbc1843e7ce13dc864fd7552fafdb5891d120701a24e4dc982'
+  :sha256 => '37ca25eaffd30e12b8bc8c1ee846d743ad7e8c24ceb90c24bea9bed8206729c3'
 }
 
 s.vendored_frameworks = 'AppLovinMediationMintegralAdapter-5.3.2.2/AppLovinMediationMintegralAdapter.framework'
