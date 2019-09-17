@@ -33,8 +33,6 @@ s.vendored_frameworks = 'AppLovinMediationAmazonBiddingAdapter-2.2.17.0.0/AppLov
 s.dependency 'AmazonBidding', '= 2.2.17.0'
 s.dependency 'AppLovinSDK', '>= 6.0.0'
 
-s.frameworks = 'AdSupport', 'SystemConfiguration', 'CoreTelephony', 'MediaPlayer', 'StoreKit', 'QuartzCore', 'SafariServices', 'JavaScriptCore'
-
 s.description = <<-DESC
 
 AppLovin turns mobile into the medium of choice for advertisers.
