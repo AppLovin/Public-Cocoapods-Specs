@@ -2,8 +2,8 @@ Pod::Spec.new do |s|
 
 s.authors = 
 {
-	'a9' => 'a9-pdp-dev@amazon.com',
-	'Dev Services' => 'devservices-mobile-sdk@amazon.com'
+    'a9' => 'a9-pdp-dev@amazon.com',
+    'Dev Services' => 'devservices-mobile-sdk@amazon.com'
 }
 s.name = 'AmazonBiddingSDK'
 s.version = '2.2.17.0'

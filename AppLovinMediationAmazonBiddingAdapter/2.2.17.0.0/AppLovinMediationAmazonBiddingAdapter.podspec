@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.authors =
 {
-	'AppLovin Corporation' => 'support@applovin.com'
+    'AppLovin Corporation' => 'support@applovin.com'
 }
 s.name = 'AppLovinMediationAmazonBiddingAdapter'
 s.version = '2.2.17.0.0'
@@ -11,8 +11,8 @@ s.summary = 'Amazon Bidding adapter used for mediation with the AppLovin MAX SDK
 s.homepage = 'https://www.applovin.com/'
 s.license = 
 { 
-  :type => 'Commercial License',
-  :text => <<-LICENSE
+    :type => 'Commercial License',
+    :text => <<-LICENSE
 
 Copyright 2018 AppLovin Corp. All rights reserved.
 
@@ -23,9 +23,9 @@ LICENSE
 
 s.source = 
 {
-  	:http => 'https://bintray.com/applovin/iOS-Adapters/download_file?file_path=AppLovinMediationAmazonBiddingAdapter-2.2.17.0.0.zip',
-  	:type => 'zip',
-	:sha256 => '3c922c3275fc8f44e843a19f6ce3c429a2991c74475bbc92029a3a627fb4809c'
+    :http => 'https://bintray.com/applovin/iOS-Adapters/download_file?file_path=AppLovinMediationAmazonBiddingAdapter-2.2.17.0.0.zip',
+    :type => 'zip',
+    :sha256 => '3c922c3275fc8f44e843a19f6ce3c429a2991c74475bbc92029a3a627fb4809c'
 }
 
 s.vendored_frameworks = 'AppLovinMediationAmazonBiddingAdapter-2.2.17.0.0/AppLovinMediationAmazonBiddingAdapter.framework'
