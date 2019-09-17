@@ -25,7 +25,7 @@ s.source =
 {
     :http => 'https://bintray.com/applovin/iOS-Adapters/download_file?file_path=AppLovinMediationAmazonBiddingAdapter-2.2.17.0.0.zip',
     :type => 'zip',
-    :sha256 => '3c922c3275fc8f44e843a19f6ce3c429a2991c74475bbc92029a3a627fb4809c'
+    :sha256 => 'SHA_PLACEHOLDER'
 }
 
 s.vendored_frameworks = 'AppLovinMediationAmazonBiddingAdapter-2.2.17.0.0/AppLovinMediationAmazonBiddingAdapter.framework'
