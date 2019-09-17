@@ -8,7 +8,7 @@ s.authors =
 s.name = 'AmazonBiddingSDK'
 s.version = '2.2.17.0'
 s.platform = :ios
-s.ios.deployment_target = '8.0'
+s.ios.deployment_target = '9.0'
 s.summary = 'Amazon Bidding SDK'
 s.homepage = 'https://developer.amazon.com/public/apis/earn/mobile-ads'
 s.license = { :type => 'Custom', :file => 'AmazonBiddingSDK-2.2.17.0/LICENSE.txt' }
@@ -22,7 +22,7 @@ s.description = <<-DESC
 	Monetize your apps across platforms with great eCPM and high-quality ads from Amazon and brand advertisers.
 DESC
 
-s.frameworks = 'AdSupport', 'CoreLocation', 'SystemConfiguration', 'CoreTelephony', 'MediaPlayer', 'EventKit', 'EventKitUI', 'StoreKit', 'QuartzCore', 'SafariServices', 'JavaScriptCore'
+s.frameworks = 'AdSupport', 'SystemConfiguration', 'CoreTelephony', 'MediaPlayer', 'StoreKit', 'QuartzCore', 'SafariServices', 'JavaScriptCore'
 
 s.vendored_frameworks = 'AmazonBiddingSDK-2.2.17.0/DTBiOSSDK.framework'
 
