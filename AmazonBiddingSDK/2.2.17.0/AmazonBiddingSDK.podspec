@@ -22,6 +22,8 @@ s.description = <<-DESC
 	Monetize your apps across platforms with great eCPM and high-quality ads from Amazon and brand advertisers.
 DESC
 
+s.frameworks = 'AdSupport', 'SystemConfiguration', 'CoreTelephony', 'CoreGraphics'
+
 s.vendored_frameworks = 'AmazonBiddingSDK-2.2.17.0/DTBiOSSDK.framework'
 
 end
