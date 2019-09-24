@@ -15,8 +15,7 @@ s.license = { :type => 'Custom', :file => 'AmazonMobileAds-2.2.17.0/LICENSE.txt'
 s.source = 
 { 
     :http => 'https://bintray.com/applovin/iOS-Adapter-SDKs/download_file?file_path=AmazonMobileAds-2.2.17.0.zip',
-  	:type => 'zip',
-	:sha256 => '9364c2cc62636783c32d3b0c57760f1fd78a2fd8b054e4cac0a334b0442bc361'
+    :type => 'zip'
 }
 s.description = <<-DESC
 	Monetize your apps across platforms with great eCPM and high-quality ads from Amazon and brand advertisers.
