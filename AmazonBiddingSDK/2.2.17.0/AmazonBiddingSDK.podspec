@@ -15,8 +15,7 @@ s.license = { :type => 'Custom', :file => 'AmazonBiddingSDK-2.2.17.0/LICENSE.txt
 s.source = 
 { 
     :http => 'https://bintray.com/applovin/iOS-Adapter-SDKs/download_file?file_path=AmazonBiddingSDK-2.2.17.0.zip',
-    :type => 'zip',
-    :sha256 => '6480563cc03dee604d74a00c4880a6458533f993b8b32a873991c2a83259c83b'
+    :type => 'zip'
 }
 s.description = <<-DESC
 	Monetize your apps across platforms with great eCPM and high-quality ads from Amazon and brand advertisers.
