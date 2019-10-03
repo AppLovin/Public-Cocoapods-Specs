@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.authors =
 {
-    'AppLovin Corporation' => 'support@applovin.com'
+    'AppLovin Corporation' => 'devsupport@applovin.com'
 }
 s.name = 'AppLovinMediationAmazonBiddingAdapter'
 s.version = '2.2.17.0.0'
