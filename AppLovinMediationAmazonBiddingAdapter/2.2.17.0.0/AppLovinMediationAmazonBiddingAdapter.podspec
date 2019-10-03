@@ -30,7 +30,7 @@ s.source =
 s.vendored_frameworks = 'AppLovinMediationAmazonBiddingAdapter-2.2.17.0.0/AppLovinMediationAmazonBiddingAdapter.framework'
 
 s.dependency 'AmazonBiddingSDK', '= 2.2.17.0'
-s.dependency 'AppLovinSDK', '>= 6.0.0'
+s.dependency 'AppLovinSDK'
 
 s.description = <<-DESC
 
