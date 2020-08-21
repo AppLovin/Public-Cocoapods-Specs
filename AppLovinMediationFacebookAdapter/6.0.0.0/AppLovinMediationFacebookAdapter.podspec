@@ -29,7 +29,7 @@ s.source =
 
 s.vendored_frameworks = 'AppLovinMediationFacebookAdapter-6.0.0.0/AppLovinMediationFacebookAdapter.framework'
 
-s.dependency 'FacebookSDK', '= 6.0.0-alpha'
+s.dependency 'FBAudienceNetwork', '= 6.0.0-alpha'
 s.dependency 'AppLovinSDK', '>= 6.0.0'
 
 s.description = <<-DESC
