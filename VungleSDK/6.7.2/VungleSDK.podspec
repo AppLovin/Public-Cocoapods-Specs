@@ -4,7 +4,7 @@ s.authors =
 {
     'Vungle' => 'tech-support@vungle.com' 
 }
-s.name = 'VungleSDK'
+s.name = 'VungleSDK-iOS'
 s.version = '6.7.2'
 s.platform = :ios
 s.ios.deployment_target = '9.0'
@@ -29,6 +29,6 @@ s.frameworks = 'AdSupport', 'AudioToolbox', 'AVFoundation', 'CFNetwork', 'CoreGr
 s.weak_frameworks = 'WebKit', 'UIKit', 'Foundation'
 s.libraries = 'z'
 
-s.vendored_frameworks = 'VungleSDK-6.7.2/VungleSDK.framework'
+s.vendored_frameworks = 'VungleSDK-iOS-6.7.2/VungleSDK.framework'
 
 end
