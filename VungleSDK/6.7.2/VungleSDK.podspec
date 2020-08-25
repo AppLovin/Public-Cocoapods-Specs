@@ -12,8 +12,8 @@ s.summary = 'Vungle\'s iOS SDK'
 s.homepage = 'https://www.vungle.com/'
 s.license =
 {
-    :file => 'LICENSE.md' 
     :type => 'Commercial',
+    :file => 'VungleSDK-6.7.2/LICENSE.md'
 }
 s.source =
 {
