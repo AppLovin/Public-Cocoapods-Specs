@@ -5,7 +5,7 @@ s.authors =
     'AppLovin Corporation' => 'devsupport@applovin.com'
 }
 s.name = 'AppLovinMediationFacebookAdapter'
-s.version = '6.0.0.2'
+s.version = '6.0.0.3'
 s.platform = :ios, '9.0'
 s.summary = 'Facebook adapter used for mediation with the AppLovin MAX SDK'
 s.homepage = 'https://dash.applovin.com/documentation/mediation/ios/mediation-adapters'
@@ -23,11 +23,11 @@ LICENSE
 
 s.source = 
 { 
-    :http => 'https://bintray.com/applovin/iOS-Adapters/download_file?file_path=AppLovinMediationFacebookAdapter-6.0.0.2.zip',
+    :http => 'https://bintray.com/applovin/iOS-Adapters/download_file?file_path=AppLovinMediationFacebookAdapter-6.0.0.3.zip',
     :type => 'zip'
 }
 
-s.vendored_frameworks = 'AppLovinMediationFacebookAdapter-6.0.0.2/AppLovinMediationFacebookAdapter.framework'
+s.vendored_frameworks = 'AppLovinMediationFacebookAdapter-6.0.0.3/AppLovinMediationFacebookAdapter.framework'
 
 s.dependency 'FBAudienceNetwork', '= 5.10.1'
 s.dependency 'AppLovinSDK', '>= 6.0.0'
