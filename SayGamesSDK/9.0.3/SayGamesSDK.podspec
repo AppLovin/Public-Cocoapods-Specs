@@ -10,7 +10,7 @@ s.homepage = 'https://saygames.by/'
 s.license = { :type => 'Copyright', :text => 'Copyright 2021 SayGames. All rights reserved.' }
 s.source = 
 { 
-    :http => 'https://bintray.com/applovin/iOS-Adapter-SDKs/download_file?file_path=maxsdk_saypromo.zip',
+    :http => 'https://bintray.com/applovin/iOS-Adapter-SDKs/download_file?file_path=maxsdk_saypromo-9.0.3.zip',
     :type => 'zip'
 }
 s.description = <<-DESC
