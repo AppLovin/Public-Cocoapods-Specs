@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.authors = 'Line'
 s.name = 'Line'
-s.version = '5.0.2'
+s.version = '2020.12.22'
 s.platform = :ios
 s.ios.deployment_target = '9.0'
 s.summary = 'Line iOS SDK'
@@ -10,7 +10,7 @@ s.homepage = 'https://line.me/'
 s.license = { :type => 'Copyright', :text => 'Copyright 2021 Line. All rights reserved.' }
 s.source = 
 { 
-    :http => 'https://bintray.com/applovin/iOS-Adapter-SDKs/download_file?file_path=Line-5.0.2.zip',
+    :http => 'https://bintray.com/applovin/iOS-Adapter-SDKs/download_file?file_path=Line-2020.12.22.zip',
     :type => 'zip'
 }
 s.description = <<-DESC
